@@ -10,6 +10,7 @@ export default function PlantDetail() {
       <img src={plant.image_url} alt={plant.Name} width="300" />
       <p><b>Description:</b> {plant.Description}</p>
       <p><b>Lifespan:</b> {plant.Lifespan}</p>
+      <p><b>Dimensions:</b> {plant.Height}x{plant.Breadth}</p>
       <p><b>Sunlight:</b> {plant.sunlight}</p>
       <p><b>Water Need:</b> {plant.water_need}</p>
       <p><b>Price:</b> ₹{plant.price}</p>

@@ -1,4 +1,4 @@
-Name,Scientific Name,Height (m),Breadth (m),City,Description,Pros,Cons,Leaf Color,Lifespan (yrs),Type
+Name,Scientific_Name,Height,Breadth,City,Description,Pros,Cons,Leaf Color,Lifespan,Type
 Teak Tree,Tectona grandis,19.4,22.7,Jaipur,Timber tree used in furniture,"Strong wood, long lifespan",Slow growth,Green,232,Deciduous
 Karanj Tree,Pongamia pinnata,36.2,23.5,Bengaluru,Used for biodiesel and shade,Oil-producing,Messy pods,Green,258,Deciduous
 Teak Tree,Tectona grandis,34,9,Indore,Timber tree used in furniture,"Strong wood, long lifespan",Slow growth,Green,289,Deciduous
